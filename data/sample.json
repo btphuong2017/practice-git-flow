@@ -1,0 +1,5 @@
+{
+  "name": "Git Practice",
+  "version": "1.0.0",
+  "features": ["commit", "merge", "conflict", "rebase"]
+}
